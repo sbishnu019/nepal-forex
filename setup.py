@@ -13,7 +13,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/sbishnu019/nepal-forex",
-    download_url='',
+    download_url='https://github.com/sbishnu019/nepal-forex/archive/v1.0.tar.gz',
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
